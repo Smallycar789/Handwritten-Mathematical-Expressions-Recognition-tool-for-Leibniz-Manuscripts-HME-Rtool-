@@ -2,7 +2,7 @@
 
 
 
-This is an annotation and recognition tool for Leibniz' handwritten math expressions.
+This is an annotation and recognition tool for Leibniz's handwritten math expressions.
 To begin the implementation of this tool on a machine with CPU, please follow the commands below:
 
 ## Implementation
